@@ -1,4 +1,8 @@
 # APM-Demo3
+REFERENCE:
+https://medium.com/better-programming/sync-your-state-in-local-storage-with-ngrx-9d6ceba93fc0
+https://github.com/itayod/sync-state-blog
+
 
 Demo of using effects for retrieving and displaying data.
 NOTE: The create, update, and delete operations no longer work in this version of the demo since we moved only the retrieve to NgRx.
