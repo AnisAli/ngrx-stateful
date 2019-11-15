@@ -1,7 +1,7 @@
 # APM-Demo3
 REFERENCE:
-https://medium.com/better-programming/sync-your-state-in-local-storage-with-ngrx-9d6ceba93fc0
-https://github.com/itayod/sync-state-blog
+- https://medium.com/better-programming/sync-your-state-in-local-storage-with-ngrx-9d6ceba93fc0
+- https://github.com/itayod/sync-state-blog
 
 
 Demo of using effects for retrieving and displaying data.
